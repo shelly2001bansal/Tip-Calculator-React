@@ -1,0 +1,83 @@
+body{
+  background-color: rgb(7, 77, 103);
+}
+
+.container{
+  border: 1px solid black;
+  margin: auto;
+  height:auto;
+  width:600px;
+  margin-top: 10px;
+  background-color: rgb(137, 125, 135);
+  border: none;
+}
+.a1{
+  margin-top: 0px;
+  padding-left: 200px;
+}
+.a2{
+  margin-top: 0px;
+  padding-left: 250px;
+  
+}
+.a3{
+  padding-left: 230px;
+
+}
+.a4{
+  position: relative;
+  left: 210px;
+  width: 200px;
+}
+.a5{
+  padding-left: 230px;
+}
+.a6{
+  position: relative;
+  left: 210px;
+  width: 200px;
+}
+.a7{
+  padding-left: 240px;
+}
+.a8{
+  position: relative;
+  left: 210px;
+  width: 200px;
+}
+.a9{
+  padding-left: 240px;
+  
+}
+.a10{
+  margin-top: 20px;
+  margin-left: 230px;
+  border: none;
+  background-color: rgb(16, 136, 140);
+}
+th,td{
+  border: 1px solid black;
+  text-align: center;
+  height: 32px;
+  width: 500px;
+}
+.a12{
+ 
+  position: relative;
+  left: 210px;
+  width: 200px;
+  border: none;
+  background-color: rgb(16, 136, 140);
+}
+.a13{
+  margin: auto;
+  border: none;
+  height: auto;
+  width: 400px;
+  text-align: center;
+}
+.a14{
+  font-size: 20px;
+  color: black;
+  font-weight: 700;
+}
